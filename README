@@ -1,3 +1,11 @@
+Building Sniper:
+
+make -j
+
+To run Sniper:
+
+./run-sniper -c run <application>
+
 This is the source code for the Sniper multicore simulator developed
 by the Performance Lab research group at Ghent University, Belgium.
 Please refer to the NOTICE file in the top level directory for
